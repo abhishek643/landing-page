@@ -75,7 +75,7 @@
   <h1 class="display-4">MY Awesome startup</h1>
   <p class="lead">We don't work for money<br>  Money work for us!</p>
   <hr class="my-4">
-  <p><b>Want to know more? join us</b><br>we will together make a lot of money.</p>
+  <p><b>Want to know more? join us</b><br>we will together make a much lot of money.</p>
 
 
 </div>
